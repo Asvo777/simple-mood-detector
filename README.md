@@ -2,8 +2,12 @@
 
 A simple Mood Detector app built with Streamlit and TextBlob NLTK.
 
-**Features**
-Sentiment Analysis: Detect positive/negative sentiment in text
+## Features
+
+- **Sentiment Analysis**: Detect positive/negative sentiment in text
+- **Mood Detection**: Classify text into different mood categories
+- **Real-time Processing**: Instant analysis as you type
+- **User-friendly Interface**: Clean and intuitive design
 
 ## Quick Start
 
