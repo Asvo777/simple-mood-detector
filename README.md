@@ -1,4 +1,4 @@
-# My Streamlit App
+# My Mood Detector
 
 A simple Mood Detector app built with Streamlit and TextBlob NLTK.
 
